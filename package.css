@@ -1,0 +1,19 @@
+#lewy
+{background-color: #f63;
+width: 40%;
+height: 600px;
+float:left;
+}
+#prawy
+{background-color: #ff9933;
+width: 40%;
+height: 600px;
+float:left;
+}
+#stopka
+{background-color: #993300;
+color:white ;
+font-size:150% ;
+text-align:right ;
+}
+td
