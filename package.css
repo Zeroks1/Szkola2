@@ -17,3 +17,17 @@ font-size:150% ;
 text-align:right ;
 }
 td
+{
+padding:20px ;
+margin:30px ;
+border:2px solid brown ;    
+}
+img
+{
+height: 350px;
+width:450px ;
+}
+h1
+{
+text-align:center ;
+}
